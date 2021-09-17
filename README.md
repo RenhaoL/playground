@@ -1,4 +1,4 @@
-# This is Iris's Playground Now
+# Playground for greeks
 
 A place to play with `git`.
 
