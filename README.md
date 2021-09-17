@@ -1,4 +1,4 @@
-# Playground
+# Playground for greeks
 
 A place to play with `git`.
 
