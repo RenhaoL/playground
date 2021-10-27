@@ -11,8 +11,6 @@ dependencies:
   - importlib_metadata=0.23=py37_0
   - libblas=3.8.0=14_openblas
   - libcblas=3.8.0=14_openblas
-  - libcxx=9.0.0=0
-  - libcxxabi=9.0.0=0
   - libffi=3.2.1=h6de7cb9_1006
   - libgfortran=4.0.0=2
   - liblapack=3.8.0=14_openblas
